@@ -1,5 +1,7 @@
 # RTL-Gazebo-Worlds-Library
- This repository contains models and world files for Gazebo, created by RealTech Laboratory.
+This repository contains models and world files for Gazebo, created by RealTech Laboratory.
+
+DOI: [![DOI](https://zenodo.org/badge/1330418041.svg)](https://doi.org/10.5281/zenodo.22277597)
 ## 🛠️ Cài đặt
 #### 1. Clone project
 ```bash
