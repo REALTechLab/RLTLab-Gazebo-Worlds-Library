@@ -1,6 +1,8 @@
 # RTL-Gazebo-Worlds-Library
 This repository contains models and world files for Gazebo, created by RealTech Laboratory.
 
+<img src="imgs/55000-HAICHAU.png" alt="" width="100%" />
+
 We offer this collection free of charge for research purposes. We would be pleased if you would use it in your research and cite it as follows: **Dong LT.  Tran, & REAL Tech Lab. (2026). REALTechLab/RLTLab-Gazebo-Worlds-Library: RLTLab Gazebo World 55000 (Version v260903) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.22277597**
 ## 🛠️ Install
 #### 1. Clone project
