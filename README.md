@@ -32,4 +32,5 @@ gz sim 55000-*****.world
 
 ## 🔗 Ref
 
-* [Documentation/Website](https://rltlab.io.vn)
+* [Website](https://rltlab.io.vn)
+* [Map Generator](https://github.com/saiaravind19/gazebo_terrain_generator)
