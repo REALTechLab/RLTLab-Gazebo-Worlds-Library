@@ -4,6 +4,13 @@ This repository contains models and world files for Gazebo, created by RealTech 
 <img src="imgs/55000-HAICHAU.png" alt="" width="100%" />
 
 We offer this collection free of charge for research purposes. We would be pleased if you would use it in your research and cite it as follows: **Dong LT.  Tran, & REAL Tech Lab. (2026). REALTechLab/RLTLab-Gazebo-Worlds-Library: RLTLab Gazebo World 55000 (Version v260903) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.22277597**
+
+## 🔑 Features
++ Real-World Terrain: 3D Gazebo worlds from actual elevation and satellite imagery of several big cities in Vietnam.
++ 3D Buildings: Buildings with real-world elevations.
++ High-Precision Heightmap: 16-bit (~0.008m precision), 8-bit for Fortress compatibility.
++ Supports: Gazebo Harmonic (recommended) · Gazebo Fortress
+
 ## 🛠️ Install
 #### 1. Clone project
 ```bash
@@ -32,5 +39,8 @@ gz sim 55000-*****.world
 
 ## 🔗 Ref
 
-* [Website](https://rltlab.io.vn)
-* [Map Generator](https://github.com/saiaravind19/gazebo_terrain_generator)
+* [REALTechLab](https://rltlab.io.vn)
+* [IAE](https://iae.duytan.edu.vn)
+* [Duy Tan University](https://duytan.edu.vn)
+* [Map Gen](https://github.com/saiaravind19/gazebo_terrain_generator)
+
