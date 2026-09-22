@@ -36,6 +36,14 @@ gz sim 55000-*****.world
 + 55000-SONTRA: 3D geographical map of Son Tra Ward, Da Nang City, Vietnam
 + 55000-dtuhkn: 3D geographical map of Duy Tan University Campus Hoa Khanh, Da Nang City, Vietnam
 
+### 🍮 Support the Project ༄˖°.🍂.ೃ࿔*:･
+If RTL-Gazebo-Worlds-Library helps your research or products, consider supporting independent research:
+
+Buy Me A Coffee
+<img src="imgs/donation.jpg" alt="" width="20%" />
+
+### License
+MIT License｡‧˚ʚ🍓ɞ˚‧｡⋆.
 
 ## 🔗 Ref
 
