@@ -29,11 +29,12 @@ gz sim 55000-*****.world
 
 + 55000-HAICHAU: 3D geographical map of Hai Chau Ward, Da Nang City, Vietnam
 + 55000-LIENCHIEU: 3D geographical map of Lien Chieu Ward, Da Nang City, Vietnam
-+ 55000-HAIVAN: 3D geographical map of Hai Van Ward, Da Nang City, Vietnam
++ 55000-HOAXUAN 3D geographical map of Hoa Xuan Ward, Da Nang City, Vietnam
 + 55000-THANHKHE: 3D geographical map of Thanh Khe Ward, Da Nang City, Vietnam
 + 55000-HOAKHANH: 3D geographical map of Hoa Khanh Ward, Da Nang City, Vietnam
 + 55000-NGUHANHSON: 3D geographical map of Ngu Hanh Son Ward, Da Nang City, Vietnam
 + 55000-SONTRA: 3D geographical map of Son Tra Ward, Da Nang City, Vietnam
++ 51000-HOIAN 3D geographical map of Hoi An Ward, Da Nang City, Vietnam
 + 55000-dtuhkn: 3D geographical map of Duy Tan University Campus Hoa Khanh, Da Nang City, Vietnam
 
 ### 🍮 Support the Project ༄˖°.🍂.ೃ࿔*:･
