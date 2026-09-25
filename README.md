@@ -34,6 +34,7 @@ gz sim 55000-*****.world
 + 55000-HOAKHANH: 3D geographical map of Hoa Khanh Ward, Da Nang City, Vietnam
 + 55000-NGUHANHSON: 3D geographical map of Ngu Hanh Son Ward, Da Nang City, Vietnam
 + 55000-SONTRA: 3D geographical map of Son Tra Ward, Da Nang City, Vietnam
++ 55000-ANHAI: 14.89 km2 of An Hai Ward, Da Nang City, Vietnam
 + 51000-HOIAN 3D geographical map of Hoi An Ward, Da Nang City, Vietnam
 + 55000-dtuhkn: 3D geographical map of Duy Tan University Campus Hoa Khanh, Da Nang City, Vietnam
 
